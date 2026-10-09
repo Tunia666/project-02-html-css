@@ -2,4 +2,14 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
+    background: #f0f0f0;
+    color: #059;
+}
+
+
+.section {
+margin: 08px;
+padding: 08px;
+background: purple;
+border-radius: 10px;
 }
